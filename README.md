@@ -13,6 +13,6 @@ Meu nome é Jorge Bravim
 
 ## Contatos
 
-- Instagram - iambravim
+- Instagram - @iambravim
 - Github - bravimdesenv
 - E-mail - bravimdesenv@gmail.com
