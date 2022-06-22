@@ -16,6 +16,11 @@ Moro no Rio de Janeiro 😎
 
 ## Atualmente estou estudando programação, na plataforma Staart, para me tornar um desenvolver back-end
 
+- HTML
+- CSS
+- JavaScript
+- Git / GitHUb
+
 ## Contatos
 
 - Instagram - @iambravim
