@@ -9,7 +9,7 @@ Meu nome é Jorge Bravim
 - Shopping com a esposa
 - Assistir séries e filmes
 
-## Atualmente estou estudando programação, na plataforma Staart, para me tornar um desenvolver back-end.
+## Atualmente estou estudando programação, na plataforma Staart, para me tornar um desenvolver back-end
 
 ## Contatos
 
