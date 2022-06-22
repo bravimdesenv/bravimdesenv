@@ -1,10 +1,15 @@
 # Bem vindo ao meu perfil!
 
-Meu nome é Jorge Bravim
+Meu nome é Jorge Bravim, aluno do curso Staart
+
+Moro no Rio de Janeiro 😎
 
 ## Meu Hobbies
-- Ler e ver vídeos sobre finanças e investimentos
-- Malher
+- Ler 📖
+- ver vídeos 📺 sobre finanças e investimentos
+- Malhar 🧍
+- Correr 🏃‍♂️
+
 - Brincar com minha filha
 - Shopping com a esposa
 - Assistir séries e filmes
