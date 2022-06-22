@@ -6,13 +6,13 @@ Moro no Rio de Janeiro 😎
 
 ## Meu Hobbies
 - Ler 📖
-- ver vídeos 📺 sobre finanças e investimentos
+- ver vídeos 🖥️ sobre finanças e investimentos
 - Malhar 🧍
 - Correr 🏃‍♂️
 
-- Brincar com minha filha
-- Shopping com a esposa
-- Assistir séries e filmes
+- Brincar com minha filha 👧
+- Shopping com a esposa 🛒
+- Assistir séries e filmes 📺
 
 ## Atualmente estou estudando programação, na plataforma Staart, para me tornar um desenvolver back-end
 
