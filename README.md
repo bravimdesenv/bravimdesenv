@@ -6,7 +6,7 @@ Moro no Rio de Janeiro 😎
 
 ## Meu Hobbies
 - Ler 📖
-- ver vídeos sobre finanças e investimentos 📺
+- ver vídeos 📺 sobre finanças e investimentos
 - Malhar 🧍
 - Correr 🏃‍♂️
 
